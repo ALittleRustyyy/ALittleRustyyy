@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Austin Lucas
+- 👀 I’m studying Computer Science at Louisiana Tech University
+- 💞️ I’m looking to collaborate on Computer Engineering and Software Development
+- 📫 How to reach me: asl023@latech.edu
+- 😄 Pronouns: He / Him
